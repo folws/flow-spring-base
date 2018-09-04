@@ -5,7 +5,8 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-Just a project base focused on spring security. No really, nothing else, thats its. 
+Just a project base focused on spring security.
+No really, nothing else, thats its. 
 
 ## Development setup
 
