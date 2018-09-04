@@ -1,27 +1,23 @@
-# flow-spring-base
-> A small template for projects using Vaadin Flow with Spring.
+# Project Base for Vaadin Flow and Spring Boot centered around Spring Security
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-Just a project base focused on spring security. No really, nothing else, thats its. 
+
+This project can be used as a starting point to create your own Vaadin Flow application with Spring Boot.
+It contains all the necessary configuration and some placeholder files to get you started.
+No really, nothing else, thats its. 
 
 ## Development setup
 
-OS X & Linux:
+Version Contorl: 
 
 ```mkdir new-project-name
 git clone --bare https://github.com/git-abstrct/flow-spring-base.git
 cd flow-spring-base.git
 git push --mirror https://github.com/exampleuser/new-project-name.git
 ```
-
-Windows:
-
-Same as above.
-
-## Usage example
 
 Now push to new project repo.
 
@@ -38,6 +34,15 @@ rm -rf flow-spring-base.git
 See more on [duplicating a repository][dub-repo]
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
+
+Other:
+Import the project to the IDE of your choosing as a Maven project. 
+
+## Usage
+Run application using
+`mvn spring-boot:run`
+
+Open http://localhost:8080/ in browser
 
 
 ## Release History
@@ -60,6 +65,10 @@ Distributed under the GPL license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
+
+For documentation on using Vaadin Flow and Spring, visit [vaadin.com/docs](https://vaadin.com/docs/v10/flow/spring/tutorial-spring-basic.html)
+
+For more information on Vaadin Flow, visit https://vaadin.com/flow.
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
