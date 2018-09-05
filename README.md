@@ -1,21 +1,18 @@
-# Project Base for Vaadin Flow and Spring Boot centered around Spring Security
+# flow-spring-base
+Project Base for Vaadin Flow and Spring Boot centered around Spring Security
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-<<<<<<< HEAD
-Just a project base focused on spring security.
-=======
-
 This project can be used as a starting point to create your own Vaadin Flow application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
->>>>>>> 07a9dabc1af904895083628651aa9ae3ff95218b
-No really, nothing else, thats its. 
+
+No really, nothing else, that's its. 
 
 ## Development setup
 
-Version Contorl: 
+Version Control: 
 
 ```mkdir new-project-name
 git clone --bare https://github.com/git-abstrct/flow-spring-base.git
