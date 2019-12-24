@@ -53,7 +53,7 @@ Open http://localhost:8080/ in browser
 
 ## Meta
 
-Folarin O – [@itsflow](https://twitter.com/itsflow) – yes@iamfolarin.com 
+Folarin O – [@itsflow](https://twitter.com/itsflow)
 
 Distributed under the GPL license. See ``LICENSE`` for more information.
 
